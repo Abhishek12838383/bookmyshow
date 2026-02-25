@@ -1,4 +1,4 @@
-import Allmovie from '../../components/allmovies/Allmovie'
+import Allmovie from '../components/allmovies/Allmovie'
 
 const ALL = () => {
   return (
